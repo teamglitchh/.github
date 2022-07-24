@@ -1,0 +1,2 @@
+# .github
+Glitchh development team
